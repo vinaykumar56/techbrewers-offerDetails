@@ -1,1 +1,1 @@
-# techbrewers-transactionDetails
+# techbrewers-offerDetails

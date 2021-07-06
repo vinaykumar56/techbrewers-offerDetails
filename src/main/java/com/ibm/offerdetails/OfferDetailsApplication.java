@@ -1,15 +1,15 @@
-package com.ibm.transactiondetails;
+package com.ibm.offerdetails;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
 @SpringBootApplication
-public class CustomerTransactionApplication {
+public class OfferDetailsApplication {
 
 
 	public static void main(String[] args) {
-		SpringApplication.run(CustomerTransactionApplication.class, args);
+		SpringApplication.run(OfferDetailsApplication.class, args);
 		
 	}
 

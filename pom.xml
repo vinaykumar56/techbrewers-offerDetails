@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.ibm</groupId>
-	<artifactId>AggregateCategory</artifactId>
+	<artifactId>techbrewers-offerDetails</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>AggregateCategory</name>
+	<name>techbrewers-offerDetails</name>
 	<description>Demo projecct for hackathon</description>
 	<properties>
 		<java.version>1.8</java.version>

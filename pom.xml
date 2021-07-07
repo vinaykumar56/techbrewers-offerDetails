@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.ibm</groupId>
 	<artifactId>techbrewers-offerDetails</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0</version>
 	<name>techbrewers-offerDetails</name>
 	<description>Demo projecct for hackathon</description>
 	<properties>

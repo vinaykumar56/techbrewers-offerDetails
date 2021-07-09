@@ -22,7 +22,7 @@ env:
   IMAGE_NAME: techbrewers-offer-details
   IKS_CLUSTER: c3dmqlcd0udnvmq5ugpg
   DEPLOYMENT_NAME: techbrewers-offer-details
-  PORT: 5001
+  PORT: 8084
 
 jobs:
   setup-build-publish-deploy:
